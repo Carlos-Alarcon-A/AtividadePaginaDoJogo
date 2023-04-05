@@ -1,0 +1,17 @@
+body{
+    background-color: Blue
+}
+#Titulo{
+    text-align: center;
+    font-family: arial;
+}
+#img{
+    width: 500px;
+    height: 300px;
+    padding-left: 450px;
+}
+#descrição{
+    font-family: arial;
+    text-align: center;
+    font-size: 20px;
+}
